@@ -1,0 +1,87 @@
+
+
+Data:
+	V3
+		velocity:
+			-fasting growing 
+		variaty	 : different type data 
+				-structured
+				-semi structure
+				-non-structure
+		volumne  : data should in GB
+
+
+
+
+
+Git :   application which should be install on device /local machine
+		CI -> Continous integration of data 
+		add data on server(cloud) and fetch from anywhere 
+
+
+GitHub:	cloud 
+
+Life cycle of git
+		-> untracted data or source code
+
+		-> git init 		: initialze the repo
+		-> git add .		: add the data of file for tracking (for sharing)
+
+
+		-> git commit 		: save data 
+
+	
+		-> git push 		: share on server / cloud 
+
+
+
+	<-	git pull 
+
+				
+		
+		git init
+		git add .
+		git status
+		git commit -m "comment..."
+
+
+$ history
+    1  git init
+    2  git status
+    3  git add .
+    4  git satus
+    5  git status
+    6  git status
+    7  git add .
+    8  git commit -m "my data "
+    9  git log
+    12  git status
+   13  git diff testscrpt.r
+   14  git add .
+   15  git commit -m "data change"
+   16  git log
+   17  git remote add origin https://github.com/AmreekRavi/TestAm.git
+   18  git push -u origin master
+   19  git add .
+   20  git commit -m "test"
+   21  git push -u origin master
+   22  git rm --cached testscrpt.r
+   23  git commit -m "Removed"
+   24  git push -u origin master
+   25  history
+
+TO pull Data
+clone Https://Path
+Cd directory Name
+git pull
+
+
+
+
+		
+	
+		
+	
+		
+	
+		
